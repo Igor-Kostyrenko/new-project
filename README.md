@@ -1,0 +1,1 @@
+1. Create the new repositry in folder "new-project" - command "git init"
